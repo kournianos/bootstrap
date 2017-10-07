@@ -8,7 +8,7 @@
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-simple-sidebar/)**
 
-## Status
+## Status UPDATE
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-simple-sidebar/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/startbootstrap-simple-sidebar.svg)](https://www.npmjs.com/package/startbootstrap-simple-sidebar)
